@@ -7,30 +7,38 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6409E4D829C549600072E27C /* CreatingASpirograph.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6409E4D729C549600072E27C /* CreatingASpirograph.swift */; };
 		6411C0AB29C4138C00A585B4 /* ChallengeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0AA29C4138C00A585B4 /* ChallengeView.swift */; };
 		6411C0AD29C4147500A585B4 /* CreatingCustomPaths.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0AC29C4147500A585B4 /* CreatingCustomPaths.swift */; };
 		6411C0AF29C4C2AA00A585B4 /* PathsVsShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0AE29C4C2AA00A585B4 /* PathsVsShapes.swift */; };
 		6411C0B329C4D4BF00A585B4 /* StrokeBorderSupport.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0B229C4D4BF00A585B4 /* StrokeBorderSupport.swift */; };
 		6411C0B529C4D53100A585B4 /* TransformingShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0B429C4D53100A585B4 /* TransformingShapes.swift */; };
 		6411C0B729C4DA1700A585B4 /* CreativeBorders.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0B629C4DA1700A585B4 /* CreativeBorders.swift */; };
+		6411C0B929C4F86A00A585B4 /* SpecialEffects.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6411C0B829C4F86A00A585B4 /* SpecialEffects.swift */; };
 		647EDF4528D0EB0E006505DF /* DrawingApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647EDF4428D0EB0E006505DF /* DrawingApp.swift */; };
 		647EDF4728D0EB0E006505DF /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 647EDF4628D0EB0E006505DF /* ContentView.swift */; };
 		647EDF4928D0EB0F006505DF /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647EDF4828D0EB0F006505DF /* Assets.xcassets */; };
 		647EDF4C28D0EB0F006505DF /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 647EDF4B28D0EB0F006505DF /* Preview Assets.xcassets */; };
+		64B5E92929C4FBCA00879D37 /* AnimatingSimpleShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B5E92829C4FBCA00879D37 /* AnimatingSimpleShapes.swift */; };
+		64B5E92B29C4FE8900879D37 /* AnimatingComplexShapes.swift in Sources */ = {isa = PBXBuildFile; fileRef = 64B5E92A29C4FE8900879D37 /* AnimatingComplexShapes.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6409E4D729C549600072E27C /* CreatingASpirograph.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingASpirograph.swift; sourceTree = "<group>"; };
 		6411C0AA29C4138C00A585B4 /* ChallengeView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChallengeView.swift; sourceTree = "<group>"; };
 		6411C0AC29C4147500A585B4 /* CreatingCustomPaths.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreatingCustomPaths.swift; sourceTree = "<group>"; };
 		6411C0AE29C4C2AA00A585B4 /* PathsVsShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PathsVsShapes.swift; sourceTree = "<group>"; };
 		6411C0B229C4D4BF00A585B4 /* StrokeBorderSupport.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StrokeBorderSupport.swift; sourceTree = "<group>"; };
 		6411C0B429C4D53100A585B4 /* TransformingShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TransformingShapes.swift; sourceTree = "<group>"; };
 		6411C0B629C4DA1700A585B4 /* CreativeBorders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CreativeBorders.swift; sourceTree = "<group>"; };
+		6411C0B829C4F86A00A585B4 /* SpecialEffects.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SpecialEffects.swift; sourceTree = "<group>"; };
 		647EDF4128D0EB0E006505DF /* Drawing.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Drawing.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		647EDF4428D0EB0E006505DF /* DrawingApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DrawingApp.swift; sourceTree = "<group>"; };
 		647EDF4628D0EB0E006505DF /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		647EDF4828D0EB0F006505DF /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		647EDF4B28D0EB0F006505DF /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		64B5E92829C4FBCA00879D37 /* AnimatingSimpleShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingSimpleShapes.swift; sourceTree = "<group>"; };
+		64B5E92A29C4FE8900879D37 /* AnimatingComplexShapes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AnimatingComplexShapes.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +78,10 @@
 				6411C0B229C4D4BF00A585B4 /* StrokeBorderSupport.swift */,
 				6411C0B429C4D53100A585B4 /* TransformingShapes.swift */,
 				6411C0B629C4DA1700A585B4 /* CreativeBorders.swift */,
+				6411C0B829C4F86A00A585B4 /* SpecialEffects.swift */,
+				64B5E92829C4FBCA00879D37 /* AnimatingSimpleShapes.swift */,
+				64B5E92A29C4FE8900879D37 /* AnimatingComplexShapes.swift */,
+				6409E4D729C549600072E27C /* CreatingASpirograph.swift */,
 				6411C0AA29C4138C00A585B4 /* ChallengeView.swift */,
 				647EDF4828D0EB0F006505DF /* Assets.xcassets */,
 				647EDF4A28D0EB0F006505DF /* Preview Content */,
@@ -155,11 +167,15 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				64B5E92929C4FBCA00879D37 /* AnimatingSimpleShapes.swift in Sources */,
+				6409E4D829C549600072E27C /* CreatingASpirograph.swift in Sources */,
 				6411C0AD29C4147500A585B4 /* CreatingCustomPaths.swift in Sources */,
 				647EDF4728D0EB0E006505DF /* ContentView.swift in Sources */,
 				647EDF4528D0EB0E006505DF /* DrawingApp.swift in Sources */,
+				64B5E92B29C4FE8900879D37 /* AnimatingComplexShapes.swift in Sources */,
 				6411C0B329C4D4BF00A585B4 /* StrokeBorderSupport.swift in Sources */,
 				6411C0B729C4DA1700A585B4 /* CreativeBorders.swift in Sources */,
+				6411C0B929C4F86A00A585B4 /* SpecialEffects.swift in Sources */,
 				6411C0AF29C4C2AA00A585B4 /* PathsVsShapes.swift in Sources */,
 				6411C0AB29C4138C00A585B4 /* ChallengeView.swift in Sources */,
 				6411C0B529C4D53100A585B4 /* TransformingShapes.swift in Sources */,
